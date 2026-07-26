@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wardrobe-miniapp/static/css/main.2e86c84f.css",
-    "main.js": "/wardrobe-miniapp/static/js/main.52fec478.js",
+    "main.js": "/wardrobe-miniapp/static/js/main.64335b86.js",
     "static/js/453.cc10a04b.chunk.js": "/wardrobe-miniapp/static/js/453.cc10a04b.chunk.js",
     "index.html": "/wardrobe-miniapp/index.html",
     "main.2e86c84f.css.map": "/wardrobe-miniapp/static/css/main.2e86c84f.css.map",
-    "main.52fec478.js.map": "/wardrobe-miniapp/static/js/main.52fec478.js.map",
+    "main.64335b86.js.map": "/wardrobe-miniapp/static/js/main.64335b86.js.map",
     "453.cc10a04b.chunk.js.map": "/wardrobe-miniapp/static/js/453.cc10a04b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e86c84f.css",
-    "static/js/main.52fec478.js"
+    "static/js/main.64335b86.js"
   ]
 }
